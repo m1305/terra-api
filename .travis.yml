@@ -42,5 +42,5 @@ deploy:
   script: docker-compose push
   skip_cleanup: true
   on:
-    repo: api-platform/api-platform
+    repo: terra-api/terra-api
     branch: master
